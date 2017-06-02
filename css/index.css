@@ -42,9 +42,10 @@
 
 }
 .meals{
-padding-top: 40%;
+padding-top: 0%;
 padding-bottom: 40%;
 margin: 0%;
+text-align: center;
 }
 #lunch{
   background-image: url("../img/lunch.jpg");
@@ -67,4 +68,17 @@ margin: 0%;
 }
 #happyhour{
   border:1px;
+}
+.fastfood{
+  float: right;
+
+}
+button{
+  background-color: white;
+  color:orange;
+  border: 2px solid;
+}
+.drinks{
+  padding: inherit;
+  padding-top: 80px;
 }
