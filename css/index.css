@@ -1,0 +1,21 @@
+img{
+  width: 200px;
+  height: 200px;
+  display: block;
+
+  margin: auto;
+
+}
+.col-sm-12{
+  background-image: url("../img/landing.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+
+}
+#opening{
+  text-align: : center;
+  font-family: fantasy;
+  font-size: 27px;
+}
