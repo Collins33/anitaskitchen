@@ -22,6 +22,7 @@
 .fastfood{
   float: right;
 
+
 }
 button{
   background-color: white;
@@ -70,4 +71,19 @@ button{
 #dinner{
   background-image: url("../img/dinner.jpg");
   height: 150px;
+}
+.merriweather{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+#fastfoods{
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#fastfoodpics{
+  border: outset;
+}
+#drinkspics{
+  border: outset;
 }
