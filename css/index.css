@@ -100,3 +100,14 @@ button{
   height: 75px;
   background-color: orange;
 }
+#footer{
+  background-color:orangeRed;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+button{
+  background-color: orangeRed;
+}
+#footercolumn{
+  padding-left: 550px;
+}
