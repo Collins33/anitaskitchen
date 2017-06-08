@@ -19,56 +19,6 @@
   font-family: fantasy;
   font-size: 27px;
 }
-#happyhour{
-  font-size: 20px;
-  background-color: white;
-  color: black
-}
-#partytime{
-  font-size:20px;
-  background-color: orange;
-  color: black;
-}
-.col-md-3{
-  text-align: center;
-}
-#breakfast{
-  background-image: url("../img/breakfast.jpg");
-  color: white;
-  font-family: fantasy;
-  background-position: center;
-  background-repeat: no-repeat;
-  margin: 0px;
-
-}
-.meals{
-padding-top: 0%;
-padding-bottom: 40%;
-margin: 0%;
-text-align: center;
-}
-#lunch{
-  background-image: url("../img/lunch.jpg");
-  color: white;
-  font-family: fantasy;
-  background-position: center;
-  background-repeat: no-repeat;
-  margin: 0px;
-
-
-}
-#dinner{
-  background-image: url("../img/dinner.jpg");
-  color: white;
-  font-family: fantasy;
-  background-position: center;
-  background-repeat: no-repeat;
-  margin: 0px;
-
-}
-#happyhour{
-  border:1px;
-}
 .fastfood{
   float: right;
 
@@ -108,4 +58,16 @@ button{
 }
 #customeremail{
   padding-left: 500px;
+}
+#breakfast{
+  background-image: url("../img/breakfast.jpg");
+  height: 150px;
+}
+#lunch{
+  background-image:url("../img/lunch.jpg");
+  height: 150px;
+}
+#dinner{
+  background-image: url("../img/dinner.jpg");
+  height: 150px;
 }
