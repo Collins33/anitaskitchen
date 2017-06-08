@@ -90,3 +90,13 @@ button{
 .bodyfont{
   font-family: 'Lato', sans-serif;
 }
+#happypartycolumn{
+  height: 150px;
+}
+#happyhourcolumn{
+  height: 75px
+}
+#partytimecolumn{
+  height: 75px;
+  background-color: orange;
+}
