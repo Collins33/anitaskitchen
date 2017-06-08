@@ -16,7 +16,7 @@
 }
 #opening{
   text-align: : center;
-  font-family: fantasy;
+  font-family: 'Roboto', sans-serif;
   font-size: 27px;
 }
 .fastfood{
@@ -86,4 +86,7 @@ button{
 }
 #drinkspics{
   border: outset;
+}
+.bodyfont{
+  font-family: 'Lato', sans-serif;
 }
