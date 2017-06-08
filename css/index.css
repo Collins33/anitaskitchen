@@ -84,5 +84,28 @@ button{
 }
 #foodselection{
   background-image: url("../img/foodsBg.jpg");
-  
+
+}
+#customerfeedback{
+
+  border: outset;
+  margin: 100px;
+}
+.customerfeedback{
+  align-items: center;
+}
+#subscriptionrequest{
+  background-image: url("../img/subscribe.jpg");
+  background-position: center;
+  background-size: cover;
+  align-items: center;
+  margin: 0%;
+}
+#subscription{
+  text-align: center;
+  font-size: 23px;
+  color: white;
+}
+#customeremail{
+  padding-left: 500px;
 }
