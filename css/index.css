@@ -47,8 +47,16 @@ button{
   margin: 100px;
 }
 .customerfeedback{
+  text-align: center;
   align-items: center;
 }
+.customerfeedbackpics{
+  display: inline-block;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+}
+
 #subscriptionrequest{
   background-image: url("../img/subscribe.jpg");
   background-position: center;
@@ -91,6 +99,11 @@ button{
 }
 #drinkspics{
   border: outset;
+  float: right;
+  padding-left: 0px;
+  padding-right: 0px;
+
+
 }
 .bodyfont{
   font-family: 'Lato', sans-serif;
