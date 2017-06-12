@@ -12,6 +12,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
+  height: 500px;
 
 }
 #opening{
@@ -29,12 +30,15 @@ button{
   color:orange;
   border: 2px solid;
 }
-.drinks{
+#drinks{
   padding: inherit;
   padding-top: 80px;
+  padding-bottom: 80px;
 }
 #foodselection{
   background-image: url("../img/foodsBg.jpg");
+  height: 450px;
+
 
 }
 #customerfeedback{
@@ -58,7 +62,7 @@ button{
   color: white;
 }
 #customeremail{
-  padding-left: 500px;
+  align-items: center;
 }
 #breakfast{
   background-image: url("../img/breakfast.jpg");
@@ -75,6 +79,7 @@ button{
 .merriweather{
   font-family: 'Merriweather', serif;
   text-align: center;
+  color: white;
 }
 #fastfoods{
   margin-top: 30px;
@@ -98,7 +103,7 @@ button{
 }
 #partytimecolumn{
   height: 75px;
-  background-color: orange;
+  background-color: orangeRed;
 }
 #footer{
   background-color:orangeRed;
@@ -108,6 +113,44 @@ button{
 button{
   background-color: orangeRed;
 }
-#footercolumn{
-  padding-left: 550px;
+#happytimes{
+  color: black;
+}
+.col-md-3{
+  padding: 0px;
+}
+#footerlogo{
+  width: 40px;
+  height: 40px;
+  display: block;
+
+  margin: auto;
+}
+#footermenu{
+  text-align: center;
+}
+#footertext{
+  text-align: center;
+}
+.social{
+  margin: auto;
+  display: block;
+}
+#email{
+  align-items: center;
+}
+#breakfasttext{
+  text-align: center;
+  padding-top: 40px;
+}
+#lunchtext{
+  text-align: center;
+  padding-top: 40px;
+}
+#dinnertext{
+  text-align: center;
+  padding-top: 40px;
+}
+#form{
+  text-align: center;
 }
