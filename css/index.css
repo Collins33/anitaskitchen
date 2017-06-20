@@ -38,6 +38,7 @@ button{
 #foodselection{
   background-image: url("../img/foodsBg.jpg");
   height: 450px;
+  background-attachment: fixed;
 
 
 }
@@ -53,7 +54,7 @@ button{
 .customerfeedbackpics{
   display: inline-block;
   align-items: center;
-  margin: auto;
+  margin-left:150px;
   text-align: center;
 }
 
@@ -131,6 +132,7 @@ button{
 }
 .col-md-3{
   padding: 0px;
+
 }
 #footerlogo{
   width: 40px;
@@ -145,9 +147,8 @@ button{
 #footertext{
   text-align: center;
 }
-.social{
-  margin: auto;
-  display: block;
+.footerphotos{
+  margin-left: 540px;
 }
 #email{
   align-items: center;
@@ -166,4 +167,84 @@ button{
 }
 #form{
   text-align: center;
+}
+.customerfeedbackpics2{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.carousel-inner > .item > img,
+ .carousel-inner > .item > a > img {
+     width: 100%;
+     height: 100px;
+   }
+.carousel1{
+  margin-top: 130px;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 500px;
+}
+#foodrow{
+  margin: 100px;
+  background-color: white;
+}
+#footerphotos{
+  display: inline;
+}
+#innerrow{
+  background-color: white;
+  margin-top: 70px;
+  margin-bottom:70px;
+  margin-left: 150px;
+  margin-right: 150px;
+
+}
+.firstpic{
+  height: 100%;
+  width:25%;
+  margin:10px;
+}
+.burger{
+  margin-left: 50px;
+}
+.pics{
+  margin-left: 90px;
+}
+.text{
+  text-align: center;
+  font-family: sans-serif;
+}
+#fastfood1{
+  background-color: grey;
+
+  width: 25%;
+  border-left:solid;
+  border-width: 1px;
+  height: 80px;
+}
+#fastfood2{
+  background-color: grey;
+
+  width: 25%;
+  border-left:solid;
+  border-width: 1px;
+  height: 80px;
+
+}
+#fastfood3{
+  background-color: grey;
+
+  width: 25%;
+  border-left:solid;
+  border-width: 1px;
+  height: 80px;
+
+}
+#inrow1{
+  width: 100%;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+#inrow2{
+  width: 100%;
+
 }
