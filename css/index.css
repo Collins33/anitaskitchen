@@ -248,3 +248,18 @@ button{
   width: 100%;
 
 }
+#happyhourcolumn:hover{
+  opacity:0.5;
+}
+#partytimecolumn:hover{
+  opacity:0.5;
+}
+#breakfast:hover{
+  opacity:0.5;
+}
+#lunch:hover{
+  opacity:0.5;
+}
+#dinner:hover{
+  opacity:0.5;
+}
